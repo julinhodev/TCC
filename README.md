@@ -1,27 +1,8 @@
-# Fala por mim - TCC
+# React + Vite
 
-O nosso app tem a intenção de ajudar pessoas com autismo ou que perderam a sua fala.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Atualmente o app tem três categorias registradas (Alimentos, Sentimentos e Necessidades).
+Currently, two official plugins are available:
 
-Ao clicar em alguma categoria, você será direcionado aos cards.
-
-Os cards são bem intuitivos, e ao clicar em algum, o som referente a necessidade escolhida será reproduzido.
-
-
-## Nome dos integrantes | Grupo Extra 01
-```
-AMANDA SILVA FREITAS 
-```
-```
-JOABE FERREIRA BISPO BATISTA
-```
-```
-JULIO MARCÍLIO DOS SANTOS JUNIOR
-```
-```
-VINICIUS TOLEDO ABOLAFIO
-```
-```
-WELBER PEREIRA DA COSTA
-```
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
