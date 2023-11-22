@@ -10,6 +10,8 @@ Os cards são bem intuitivos, e ao clicar em algum, o som referente a necessidad
 
 Tecnologias usadas: React + Vite
 
+Vídeo demonstrativo: https://www.youtube.com/watch?v=8Wq904zz9fc
+
 ## Nome dos integrantes | Grupo Extra 01
 ```
 AMANDA SILVA FREITAS 
